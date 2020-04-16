@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/webnfc-experiment/static/css/main.5f361e03.chunk.css",
-    "main.js": "/webnfc-experiment/static/js/main.ce579da3.chunk.js",
-    "main.js.map": "/webnfc-experiment/static/js/main.ce579da3.chunk.js.map",
+    "main.js": "/webnfc-experiment/static/js/main.f926175a.chunk.js",
+    "main.js.map": "/webnfc-experiment/static/js/main.f926175a.chunk.js.map",
     "runtime-main.js": "/webnfc-experiment/static/js/runtime-main.439bbfbc.js",
     "runtime-main.js.map": "/webnfc-experiment/static/js/runtime-main.439bbfbc.js.map",
-    "static/js/2.756ff81a.chunk.js": "/webnfc-experiment/static/js/2.756ff81a.chunk.js",
-    "static/js/2.756ff81a.chunk.js.map": "/webnfc-experiment/static/js/2.756ff81a.chunk.js.map",
+    "static/js/2.f58f177d.chunk.js": "/webnfc-experiment/static/js/2.f58f177d.chunk.js",
+    "static/js/2.f58f177d.chunk.js.map": "/webnfc-experiment/static/js/2.f58f177d.chunk.js.map",
     "index.html": "/webnfc-experiment/index.html",
-    "precache-manifest.61a98d9ae073297869c3e6e26e30aa3d.js": "/webnfc-experiment/precache-manifest.61a98d9ae073297869c3e6e26e30aa3d.js",
+    "precache-manifest.f155a45d20e1db6e336e31c90262eefe.js": "/webnfc-experiment/precache-manifest.f155a45d20e1db6e336e31c90262eefe.js",
     "service-worker.js": "/webnfc-experiment/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/webnfc-experiment/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.756ff81a.chunk.js.LICENSE.txt": "/webnfc-experiment/static/js/2.756ff81a.chunk.js.LICENSE.txt"
+    "static/js/2.f58f177d.chunk.js.LICENSE.txt": "/webnfc-experiment/static/js/2.f58f177d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.439bbfbc.js",
-    "static/js/2.756ff81a.chunk.js",
+    "static/js/2.f58f177d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ce579da3.chunk.js"
+    "static/js/main.f926175a.chunk.js"
   ]
 }
