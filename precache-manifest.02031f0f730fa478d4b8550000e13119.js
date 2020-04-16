@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "497fbf86319c1efdc09d3f1b535b3bb6",
+    "revision": "34cb0620fb1ed3344a9ef468c8e388f1",
     "url": "/webnfc-experiment/index.html"
   },
   {
-    "revision": "1418ec682410d4d3f7c3",
+    "revision": "c4459de5a6417939a7ed",
     "url": "/webnfc-experiment/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webnfc-experiment/static/js/2.f58f177d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1418ec682410d4d3f7c3",
-    "url": "/webnfc-experiment/static/js/main.bbed3fef.chunk.js"
+    "revision": "c4459de5a6417939a7ed",
+    "url": "/webnfc-experiment/static/js/main.f366af1b.chunk.js"
   },
   {
     "revision": "223082a7a70e4578dd76",
